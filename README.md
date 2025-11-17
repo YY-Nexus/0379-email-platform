@@ -470,7 +470,7 @@ chore: 构建/工具相关
 - **文档**: [项目文档](https://docs.0379.email)
 - **问题反馈**: [GitHub Issues](https://github.com/YY-Nexus/0379-email-platform/issues)
 - **讨论**: [GitHub Discussions](https://github.com/YY-Nexus/0379-email-platform/discussions)
-- **邮件**: support@0379.email
+- **邮件**: admin@0379.email
 - **官网**: [https://0379.email](https://0379.email)
 
 ## 🙏 致谢
